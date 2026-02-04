@@ -113,7 +113,7 @@ For independent developers and students working on small-scale projects, GitHub'
 
 ### Command Line vs. GUI Tools
 
-Git was originally designed to be used from the **command line**, using tools like Git Bash. This method is incredibly powerful, but it requires you to be familiar with specific text-based commands to manage your project. While many professional developers still prefer the terminal, it can be a steep learning curve when you are also trying to learn game development.
+Git was originally designed for a **Command Line Interface (CLI)**, using tools like **Git Bash**. This method is incredibly powerful, but it requires you to be familiar with specific text-based commands to manage your project. While many professional developers still prefer the terminal, it can be a steep learning curve when you are also trying to learn game development.
 
 If you aren't comfortable working in a terminal yet, that’s completely fine. Once Git is installed, you can use a **Git GUI (Graphical User Interface)**.
 
@@ -161,8 +161,19 @@ To ensure your account is correctly linked for our class:
 
 ![GitHub Desktop Account Connection](imgs/GitHubDesktop-Account.png)
    
-    
+---
+# 🎉 New Achievement: Git Configured!
 
-> \[!IMPORTANT\] Check Your Account: If you see a different username, you must sign out and sign back in using the specific account you used to join our GitHub Classroom organization. If the accounts don't match, you won't be able to see or submit your assignments!
+You’ve successfully set up Git, Git LFS, and installed GitHub Desktop.
+You are now ready to get started with your development project while implementing industry-standard version control. 
 
+### 🛡️ Checkpoint
 
+Here are the key takeaways from this lesson:
+
+-   **Git and GitHub are the same.** Git is the local application that tracks your work; GitHub is the cloud service where your work is backed up and shared.
+-   **Git Bash** is a terminal tool for Windows that acts as a translator, allowing you to run professional, Linux-style commands.
+-   **Git LFS (Large File Storage)** is an essential extension for game developers that keeps repositories lightweight by handling heavy binary files (models, textures, audio) separately.
+-   **Git LFS Storage Quotas:** While working locally is unrestricted, syncing to GitHub in the cloud has limits.
+    -   Personal GitHub accounts often have a 1GB LFS limit, whereas school organizations provide much higher capacity.
+-   **GUI vs. CLI:** Git was designed for a CLI; tools like GitHub Desktop provide a GUI that makes managing complex project history more intuitive for beginners.
