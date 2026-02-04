@@ -291,23 +291,20 @@ Unity VCS is convenient, but:
 -   the free tier is limited
 -   it’s less common in the industry than Git or Perforce
 -   many studios still expect Git or Perforce experience
-    
 
-## 💡 Tip: What Should Beginners Use?
+---  
 
-If you’re learning game development, **start with Git**.
-
-It’s:
-
--   free
--   easy to access
--   widely used
--   excellent for building professional habits
-    
-
-Later, if you want to work in larger studios, learning **Perforce P4** is extremely valuable.
-
-Knowing both makes you more flexible—and much more employable.
+>[!TIP]
+> #### What Should Beginners Use?
+> If you’re learning game development, **start with Git**.
+> It’s:
+> - free
+> - easy to access
+> - widely used
+> - excellent for building professional habits
+>
+> Later, if you want to work in larger studios, learning **Perforce P4** is extremely valuable.
+> Knowing both makes you more flexible—and much more employable.
 
 ---
 
@@ -329,4 +326,5 @@ Here are the key takeaways from this lesson:
     -   **Perforce P4** (industry standard for large studios)
 
     -   **Unity Version Control** (integrated, but less widely adopted)
+
 
