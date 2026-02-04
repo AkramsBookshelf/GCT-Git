@@ -40,7 +40,7 @@ If you are working on your personal laptop or home computer:
 
 1.  Download: Visit the official Git website: 👉 **[https://git-scm.com/](https://git-scm.com/)**
 2.  Install: Run the installer. You will see several configuration screens—for this course, it is recommended to keep the default settings and click "Next" through the prompts.
-3.  Finish: Once the installation is complete, the Git "engine" is ready to go.
+3.  Finish: Once the installation is complete, Git is ready to go.
     
 
 #### Step 2: Verifying Your Installation
@@ -177,4 +177,5 @@ Here are the key takeaways from this lesson:
 -   **Git LFS Storage Quotas:** While working locally is unrestricted, syncing to GitHub in the cloud has limits.
     -   Personal GitHub accounts often have a 1GB LFS limit, whereas school organizations provide much higher capacity.
 -   **GUI vs. CLI:** Git was designed for a CLI; tools like GitHub Desktop provide a GUI that makes managing complex project history more intuitive for beginners.
+
 
