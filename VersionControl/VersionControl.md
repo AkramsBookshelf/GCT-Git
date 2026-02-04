@@ -39,7 +39,7 @@ In the show, the “sacred timeline” represents the main reality. Branching ti
 
 A VCS works the same way.
 
-[!Version Control: Naviagting the Project Multiverse](imgs/gct-versionControl.png)
+![Version Control: Naviagting the Project Multiverse](imgs/gct-versionControl.png)
 
 # 
 
@@ -329,3 +329,4 @@ Here are the key takeaways from this lesson:
     -   **Perforce P4** (industry standard for large studios)
 
     -   **Unity Version Control** (integrated, but less widely adopted)
+
