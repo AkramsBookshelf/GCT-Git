@@ -1,14 +1,14 @@
 # 📜 Version Control 
 > By: Akram Taghavi-Burris | © 2026
 
-As a development project grows, it becomes harder to keep track of what’s changing, why it changed, and who changed it. Early on, when you’re working alone and only have a few scripts, you can often get away with manually saving backups or making copies of your project folder. But as more systems are added—and especially as more people join the team, this quickly becomes risky. A single fatal bug, a corrupted project file, or even a server crash can wipe out not just hours of work, but potentially months or years of progress. Professional teams avoid this by using tools designed specifically to track project history, recover from mistakes, and protect the project from unexpected disasters. One of the most important of these tools is version control.
+As a development project grows, it becomes harder to keep track of what’s changing, why it changed, and who changed it. Early on, when you’re working alone and only have a few scripts, you can often get away with manually saving backups or making copies of your project folder. But as more systems are added, and especially as more people join the team, this quickly becomes risky. A single fatal bug, a corrupted project file, or even a server crash can wipe out not just hours of work, but potentially months or years of progress. Professional teams avoid this by using tools designed specifically to track project history, recover from mistakes, and protect the project from unexpected disasters. One of the most important of these tools is version control.
 
 
 ## What Is Version Control?
 
 A **Version Control System (VCS)** is a tool that tracks changes in a project over time.
 
-In the early days of software development, this was often called **source control**, because projects were mostly made of code (source files). But modern game projects contain far more than scripts:
+In the early days of software development, this was often called **source control** because projects were mostly composed of code (source files). But modern game projects contain far more than scripts:
 
 -   Images
 -   Audio
@@ -84,9 +84,7 @@ If it fails, you discard the branch and the sacred timeline remains untouched.
 
 ## Why Use Version Control (Even Solo)?
 
-A lot of beginners assume version control is only for big teams.
-
-It’s not.
+A lot of beginners assume "version control is only for big teams"; It’s not!
 
 Even as a solo developer, version control is one of the most valuable tools you can learn because it gives you:
 
@@ -155,7 +153,7 @@ In a **centralized** VCS:
 
 -   There is one main repository on a server
 -   Developers connect to that server
--   The server is the “source of truth”
+-   The server is the “source of truth.”
     
 
 A common workflow looks like this:
@@ -163,7 +161,7 @@ A common workflow looks like this:
 1.  Developer gets the latest project files
 2.  Developer checks out a file (often locking it)
 3.  Developer edits the file
-4.  Developer checks in the file (sends changes back to server)
+4.  Developer checks in the file (sends changes back to the server)
     
 
 #### Why centralized systems are popular in games
@@ -329,4 +327,5 @@ Here are the key takeaways from this lesson:
 -   The most common tools in game development are:
     -   **Git** (most popular overall)
     -   **Perforce P4** (industry standard for large studios)
+
     -   **Unity Version Control** (integrated, but less widely adopted)
