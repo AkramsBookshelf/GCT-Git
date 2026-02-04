@@ -1,7 +1,7 @@
 # 📜 GIT For Game Development
 > By: Akram Taghavi-Burris | © 2026
 
-Now that we've discussed the importance of **[!version control systems (VCS)](VersionControl.md)** and why Git is one of the best solutions for beginners, we need to get it ready for action. Before we even open a game development project, we must set up our environment. Understanding version control in theory is one thing, but mastering the ecosystem is what separates a hobbyist from a professional developer. Especially in game development, where high-res textures and 3D models can easily break a standard repository, knowing how to configure your tools correctly from day one is the difference between a smooth workflow and a corrupted project. In this lesson, we will install the essential toolkit and configure your environment to handle everything from simple scripts to massive game assets.
+Now that we've discussed the importance of **[version control systems (VCS)](VersionControl.md)** and why Git is one of the best solutions for beginners, we need to get it ready for action. Before we even open a game development project, we must set up our environment. Understanding version control in theory is one thing, but mastering the ecosystem is what separates a hobbyist from a professional developer. Especially in game development, where high-res textures and 3D models can easily break a standard repository, knowing how to configure your tools correctly from day one is the difference between a smooth workflow and a corrupted project. In this lesson, we will install the essential toolkit and configure your environment to handle everything from simple scripts to massive game assets.
 
 ## Git Vs GitHub
 
@@ -19,7 +19,7 @@ Before we can implement Git version control in our projects, we first need to en
 
 >[!NOTE]
 > If you are working in a classroom computer environment, the Git application should already be pre-installed.
-> You can skip the download step in the following tutorial and move straight to Step 2: Verifying Your Installation.
+> You can skip the download step in the following tutorial and move straight to **[Step 2: Verifying Your Git Installation](https://github.com/AkramsBookshelf/GCT-Git/blob/main/VersionControl/Git-LFS-Hub.md#step-2-verifying-your-installation)**.
 
 ---
 
@@ -67,7 +67,7 @@ If you try to store these directly in a standard Git repository, your project wi
 **Git LFS** is an extension to Git that handles large files more efficiently. Instead of storing large files directly in your repository history, Git LFS replaces them with tiny "pointer" files and stores the actual heavy data separately. This keeps your repository lightweight and manageable, no matter how many 3D models you add.
 
 >[!NOTE]
-> Like Git, Git LFS should already be active on classroom computers. You can verify this by skipping to Step 2: Verifying Your Git LFS Installation in the tutorial below.
+> Like Git, Git LFS should already be active on classroom computers. You can verify this by skipping to **[Step 2: Verifying Your Git LFS Installation](https://github.com/AkramsBookshelf/GCT-Git/blob/main/VersionControl/Git-LFS-Hub.md#step-2-verifying-your-installation)** in the tutorial below.
 
 ### Local vs. Cloud Storage
 While installing and using Git LFS locally is a perfect solution for managing your game project on your own machine, you may run into restrictions once you connect to **GitHub**. Although the Git LFS tool itself is free to use, GitHub's cloud storage is not unlimited.
@@ -177,3 +177,4 @@ Here are the key takeaways from this lesson:
 -   **Git LFS Storage Quotas:** While working locally is unrestricted, syncing to GitHub in the cloud has limits.
     -   Personal GitHub accounts often have a 1GB LFS limit, whereas school organizations provide much higher capacity.
 -   **GUI vs. CLI:** Git was designed for a CLI; tools like GitHub Desktop provide a GUI that makes managing complex project history more intuitive for beginners.
+
