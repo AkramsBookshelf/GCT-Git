@@ -49,8 +49,8 @@ To confirm the application is correctly installed, let's try opening your new te
 
 1.  Windows: Search your Start Menu for Git Bash and open it.
   - Mac: Open your standard Terminal.  
-2.  Type `git --version` and press Enter.
-4.  Success: If you see `git version 2.x.x`, the application is active and ready.
+2.  Type **`git --version`** and press Enter.
+4.  Success: If you see **`git version 2.x.x`**, the application is active and ready.
 
 ---
 
@@ -105,8 +105,8 @@ For independent developers and students working on small-scale projects, GitHub'
 #### Step 2: Verifying Your Git LFS Installation
 1.  Windows: Search your Start Menu for Git Bash and open it.
   - Mac: Open your standard Terminal.  
-2.  Type `git lfs install` and press Enter.
-3.  Success: If you see `Git LFS initialized.`
+2.  Type **`git lfs install`** and press Enter.
+3.  Success: If you see **`Git LFS initialized.`**
     
 ---
 ## 
@@ -164,4 +164,5 @@ To ensure your account is correctly linked for our class:
     
 
 > \[!IMPORTANT\] Check Your Account: If you see a different username, you must sign out and sign back in using the specific account you used to join our GitHub Classroom organization. If the accounts don't match, you won't be able to see or submit your assignments!
+
 
