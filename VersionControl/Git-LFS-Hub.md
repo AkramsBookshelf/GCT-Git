@@ -159,7 +159,9 @@ To ensure your account is correctly linked for our class:
 2.  Click on the Accounts tab.
 3.  Check your status: You should see your GitHub username and avatar.
 
+![GitHub Desktop Account Connection](imgs/GitHubDesktop-Account.png)
    
     
 
 > \[!IMPORTANT\] Check Your Account: If you see a different username, you must sign out and sign back in using the specific account you used to join our GitHub Classroom organization. If the accounts don't match, you won't be able to see or submit your assignments!
+
