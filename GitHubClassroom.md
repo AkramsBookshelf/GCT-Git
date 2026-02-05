@@ -163,7 +163,7 @@ Once the assignment is accepted:
 
 ---
 
-# 🎉 New Achievement: Classroom Connected!
+# 🎉 New Achievement: Assignment Accepted!
 
 You’ve successfully accepted your GitHub Classroom assignment, linked your GitHub account, and located your repository.
 You are now ready to:
