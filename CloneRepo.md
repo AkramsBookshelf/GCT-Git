@@ -166,7 +166,7 @@ Alternatively, you can clone a GitHub repo using the Git URL.
     
 ---
 
-# 🎉 New Achievement: Assignment Ready Locally!
+# 🎉 New Achievement: Repository Cloned!
 You’ve successfully cloned your GitHub repository to your local computer. You now have a **personal, working copy** of your assignment and can safely make changes. When ready, you can **commit your work** and **push it back to GitHub**, following the same workflow used by professional developers.
 
 
