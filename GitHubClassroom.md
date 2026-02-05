@@ -152,13 +152,14 @@ Once the assignment is accepted:
 3.  Click the link to open your repository on GitHub
     
 > [!NOTE]  
-> Your assignment repository might **not appear in your personal GitHub repository list** because it is hosted in the **course or institution GitHub Organization**.  
-> To access your repo:
-> A. **Click the Assignment URL** – If you already accepted the assignment, this will take you to a page confirming your acceptance and providing the link to your assignment repository.  
-> B. **Navigate to the Organization** – Go to your course’s GitHub Organization to locate your assignment repo.
+> Your assignment repository might **not appear in your personal GitHub repository list** because it is hosted in the **course or institution GitHub Organization**.
+> 
+> To access your repo, do one of the following: 
+> - **Click the Assignment URL** – If you already accepted the assignment, this will take you to a page confirming your acceptance and providing the link to your assignment repository.  
+> -  **Navigate to the Organization** – Go to your course’s GitHub Organization to locate your assignment repo.
 >
 > To make it easier to find later:  
-> - **Star the repository** – Click the **Star** button at the top of the repo page. This will make it appear in your personal profile under “Starred” repositories.
+> - **Star the repository**: Click the **Star** button at the top of the repo page. This will make it appear in your personal profile under “Starred” repositories.
 
 ---
 
