@@ -17,7 +17,7 @@ Before we can implement Git version control in our projects, we first need to en
 > For Windows users, installing Git also installs a tool called **Git Bash**. Git was originally created for Linux systems; as such, Windows needs a "translator" to run certain commands. **Git Bash** is a terminal window that provides this environment, allowing you to use Git exactly like professional developers do on Mac or Linux.
 
 
->[!NOTE]
+>[!WARNING]
 > If you are working in a classroom computer environment, the Git application should already be pre-installed.
 > You can skip the download step in the following tutorial and move straight to **[Step 2: Verifying Your Git Installation](https://github.com/AkramsBookshelf/GCT-Git/blob/main/VersionControl/Git-LFS-Hub.md#step-2-verifying-your-installation)**.
 
@@ -66,7 +66,7 @@ If you try to store these directly in a standard Git repository, your project wi
 
 **Git LFS** is an extension to Git that handles large files more efficiently. Instead of storing large files directly in your repository history, Git LFS replaces them with tiny "pointer" files and stores the actual heavy data separately. This keeps your repository lightweight and manageable, no matter how many 3D models you add.
 
->[!NOTE]
+>[!WARNING]
 > Like Git, Git LFS should already be active on classroom computers. You can verify this by skipping to **[Step 2: Verifying Your Git LFS Installation](https://github.com/AkramsBookshelf/GCT-Git/blob/main/VersionControl/Git-LFS-Hub.md#step-2-verifying-your-installation)** in the tutorial below.
 
 ### Local vs. Cloud Storage
@@ -87,7 +87,7 @@ For independent developers and students working on small-scale projects, GitHub'
 
 ---
 
-## 🛠️ TUTORIAL: Installing Git
+## 🛠️ TUTORIAL: Installing Git LFS
 
 <details>
 <summary><strong><em>Tutorial Details</em></strong></summary>
@@ -177,5 +177,6 @@ Here are the key takeaways from this lesson:
 -   **Git LFS Storage Quotas:** While working locally is unrestricted, syncing to GitHub in the cloud has limits.
     -   Personal GitHub accounts often have a 1GB LFS limit, whereas school organizations provide much higher capacity.
 -   **GUI vs. CLI:** Git was designed for a CLI; tools like GitHub Desktop provide a GUI that makes managing complex project history more intuitive for beginners.
+
 
 
